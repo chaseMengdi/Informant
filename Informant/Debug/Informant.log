@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  timeInfoDlg.cpp
+  remindDlg.cpp
+  noteDlg.cpp
+  LoginDlg.cpp
+  InformantDlg.cpp
+d:\学习资料\大二\专业实训\专业实训_第六组\informant\informant\informantdlg.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\学习资料\大二\专业实训\专业实训_第六组\informant\informant\informantdlg.cpp(299): warning C4101: “szModule”: 未引用的局部变量
+  Informant.cpp
+d:\学习资料\大二\专业实训\专业实训_第六组\informant\informant\informantdlg.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  fesInfo.cpp
+  diaryDlg.cpp
+d:\学习资料\大二\专业实训\专业实训_第六组\informant\informant\informantdlg.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  dateInfo.cpp
+d:\学习资料\大二\专业实训\专业实训_第六组\informant\informant\informantdlg.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Database.cpp
+  CWMPPlayer4.cpp
+  aboutDlg.cpp
+  正在生成代码...
+  Informant.vcxproj -> D:\学习资料\大二\专业实训\专业实训_第六组\Informant\Debug\Informant.exe
+  Informant.vcxproj -> D:\学习资料\大二\专业实训\专业实训_第六组\Informant\Debug\Informant.pdb (Partial PDB)

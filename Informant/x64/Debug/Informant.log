@@ -1,0 +1,20 @@
+﻿生成启动时间为 2017/6/28 16:39:42。
+     1>项目“C:\Users\lfx\Desktop\新建文件夹 (2)\Informant\Informant\Informant.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\软件管理\VS2013\VS2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lfx\Desktop\新建文件夹 (2)\Informant\x64\Debug\Informant.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\软件管理\VS2013\VS2013\VC\Include\Manifest\dpiaware.manifest" /PDB:"C:\Users\lfx\Desktop\新建文件夹 (2)\Informant\x64\Debug\Informant.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lfx\Desktop\新建文件夹 (2)\Informant\x64\Debug\Informant.lib" /MACHINE:X64 x64\Debug\Informant.res
+         x64\Debug\Database.obj
+         x64\Debug\dateInfo.obj
+         x64\Debug\diaryDlg.obj
+         x64\Debug\fesInfo.obj
+         x64\Debug\Informant.obj
+         x64\Debug\InformantDlg.obj
+         x64\Debug\noteDlg.obj
+         x64\Debug\stdafx.obj
+         x64\Debug\timeInfoDlg.obj
+     1>timeInfoDlg.obj : error LNK2011: 未链接预编译对象；映像可能不能运行
+     1>C:\Users\lfx\Desktop\新建文件夹 (2)\Informant\x64\Debug\Informant.exe : fatal error LNK1120: 1 个无法解析的外部命令
+     1>已完成生成项目“C:\Users\lfx\Desktop\新建文件夹 (2)\Informant\Informant\Informant.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:03.78

@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_enum_028e_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>InformantDlg.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAJAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InformantDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Database">
+    <Position X="0.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAADEAAAAAAAAAAAAAAAAAQAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Database.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dateInfo">
+    <Position X="2.5" Y="2" Width="2" />
+    <NestedTypes>
+      <Enum Name="dateInfo::__unnamed_enum_0287_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>dateInfo.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAQAAEIBAAQAAAoAJAAAAAABAAYAAAAAAEAAACIIAA=</HashCode>
+      <FileName>dateInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diaryDlg">
+    <Position X="4.75" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Enum Name="diaryDlg::__unnamed_enum_0289_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>diaryDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAggBAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>diaryDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fesInfo">
+    <Position X="9.25" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Enum Name="fesInfo::__unnamed_enum_028b_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>fesInfo.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAYEEAAAAAAAKABCAAAAAIAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>fesInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CInformantApp">
+    <Position X="2.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Informant.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CInformantDlg">
+    <Position X="11.5" Y="0.5" Width="1.75" />
+    <NestedTypes>
+      <Enum Name="CInformantDlg::__unnamed_enum_028f_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>InformantDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EACAAAEQgAsAAAAAEBAAAAAAAAAAAAQAAAAAAAAQBAA=</HashCode>
+      <FileName>InformantDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLoginDlg">
+    <Position X="7" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Enum Name="CLoginDlg::__unnamed_enum_0291_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LoginDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAIBAAAAAAIAhAAAAAAAAAQAEAAAAIAAAAAAAA=</HashCode>
+      <FileName>LoginDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="noteDlg">
+    <Position X="0.5" Y="5" Width="1.75" />
+    <NestedTypes>
+      <Enum Name="noteDlg::__unnamed_enum_0293_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>noteDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAEgABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>noteDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="timeInfoDlg">
+    <Position X="4.75" Y="3" Width="2" />
+    <NestedTypes>
+      <Enum Name="timeInfoDlg::__unnamed_enum_0299_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>timeInfoDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAANABAAgAAAIABAAAAAAAAAQAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>timeInfoDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_enum_02a9_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>InformantDlg.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>InformantDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="aboutDlg">
+    <Position X="11" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="aboutDlg::__unnamed_enum_029e_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>aboutDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAIACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>aboutDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWMPPlayer4">
+    <Position X="11" Y="4" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AACGAgAACAIgKkEBAqAANUgBQIsAAEBAAogAACgIUGA=</HashCode>
+      <FileName>CWMPPlayer4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Database">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAADEAAAAAAAAAAAAAAAAAQAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Database.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dateInfo">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="dateInfo::__unnamed_enum_02a2_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>dateInfo.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAQAAEIBAAQAAAoAJAAAAAABAAYAAAAAAEAAACIIAA=</HashCode>
+      <FileName>dateInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diaryDlg">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="diaryDlg::__unnamed_enum_02a4_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>diaryDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAwAAkABAAQAIAqgJQAAAACBAEYAEAIRAEECgQAAAA=</HashCode>
+      <FileName>diaryDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fesInfo">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="fesInfo::__unnamed_enum_02a6_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>fesInfo.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAYEEAAAAAAAKABCAAAAAIAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>fesInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CInformantApp">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Informant.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CInformantDlg">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CInformantDlg::__unnamed_enum_02aa_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>InformantDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EACAAKE04A9QAAEAEJCAAAACAAAAQAQEAAAAAAARAAA=</HashCode>
+      <FileName>InformantDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLoginDlg">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CLoginDlg::__unnamed_enum_02ac_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LoginDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAIBAAAAAAIAhAAAAAAAAAQAEAAAAIAAAAAAAA=</HashCode>
+      <FileName>LoginDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="noteDlg" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="noteDlg::__unnamed_enum_02ae_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>noteDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>0AAAAAGABAAggAEoABAAAEAAAAAQAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>noteDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="remindDlg">
+    <Position X="12.5" Y="2.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="remindDlg::__unnamed_enum_02d0_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>remindDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAIEAAQAAEAAQABCAAAACAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>remindDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="timeInfoDlg">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="timeInfoDlg::__unnamed_enum_02b4_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>timeInfoDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAANABAAgAAAIABAAgAAAAAAQAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>timeInfoDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
